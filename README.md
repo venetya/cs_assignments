@@ -3,9 +3,9 @@
 ## Week of 10/30/2017
 
 1. Video:  
-- (https://www.youtube.com/watch?v=xyBbocLXbNY) 
+- [Basics of computer memory and architecture:](https://www.youtube.com/watch?v=xyBbocLXbNY) 
 
-1. Reading:  
+2. Reading:  
 - [HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)  
 - [Premature Optimisation](http://ubiquity.acm.org/article.cfm?id=1513451)  
 

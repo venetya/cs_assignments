@@ -2,8 +2,8 @@
 
 ## Week of 10/30/2017
 
-1. Video:
-[Basics of computer memory and architecture:] (https://www.youtube.com/watch?v=xyBbocLXbNY)
+1. Video:  
+- [Basics of computer memory and architecture:] (https://www.youtube.com/watch?v=xyBbocLXbNY)
 
 1. Reading:  
 - [HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)  

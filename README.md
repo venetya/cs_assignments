@@ -1,9 +1,9 @@
 # Weekly Assignments
 
-#### [Week 1](#week-one-content) | [Week 2](#real-cool-heading) | [Week 3](#week-three-content) | [Week 4](#week-four-content) | [Week 5](#week-five-content)
+#### [Week 1](#week-one) | [Week 2](#week-two) | [Week 3](#week-three) | [Week 4](#week-four) | [Week 5](#week-five)
 
 
-#Week One Content  
+#Week One  
 ## Week of 10/30/2017
 
 1. Video:  
@@ -59,20 +59,18 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 - Design performance into an application from the very start. Design first, code second. 
 
-#Real Cool Heading
-This is a real cool heading with some real cool content.
 
-#Week Two Content 
+#Week Two
 to be continued...
 
 
-#Week Three Content  
+#Week Three
 to be continued...
 
 
-#Week Four Content  
+#Week Four
 to be continued...
 
 
-#Week Five Content  
+#Week Five
 to be continued...

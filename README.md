@@ -38,4 +38,21 @@ A system of rules that governs interaction between entities.
 
 ### "Premature Optimization is the Root of All Evil"
 #### Summary:
-The gist of this article is that the statement by Sir Tony Hoare has been frequently taken out of context and, consequently, misunderstood by many software engineers. These individuals have mistakenly interpreted these words to mean that writing efficient code is not important. However, when taken in the proper context, one understands that Hoare was actually saying that being concerned about small efficiencies at too granular a level before you know what the actual performance bottlenecks are is not useful. This does not mean that optimization is not useful, rather, it should be part of the design process.
+The gist of this article is that the statement by Sir Tony Hoare has been frequently taken out of context and, consequently, misunderstood by many software engineers. These individuals have mistakenly interpreted these words to mean that writing efficient code is not important. However, when taken in the proper context, one understands that Hoare was actually saying that being concerned about small efficiencies at too granular a level before you know what the actual performance bottlenecks are is not useful. This does not mean that optimization itself is not useful, rather, it should be part of the design process.
+
+### Key Points
+- When designing software at a system level, performance issues should always be considered from the beginning. A good software developer will do this automatically, having developed a feel for where performance issues will cause problems.
+
+- Software engineers should worry about other issues (such as good algorithm design and good implementations of those algorithms) before they worry about micro-optimizations such as how many CPU cycles a particular statement consumes.
+
+- Efficiency is an important criterion when developing software. Software engineers must accept optimization as a necessary step and not reject it as evil.
+
+- The only way to gain the experience needed to properly optimize code is by constant practice: 
+1. profile everything (timings) 
+1. be willing to make some mistakes 
+
+- Premature optimization is always bad, but the truth is that some concern about small efficiencies during program development is not premature.
+
+- Design performance into an application from the very start. Design first, code second. 
+
+

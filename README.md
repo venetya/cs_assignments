@@ -8,6 +8,7 @@
 2. Reading:  
 - [HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)  
 - [Premature Optimisation](http://ubiquity.acm.org/article.cfm?id=1513451)  
+- [Good article on (numerical) data representation](https://www.codementor.io/bennylope/it-makes-cents-data-representation-choices-d8vd7l2uh) 
 
 3. Redis is a very popular in-memory database. This means it stores all data in RAM instead of most databases that store data on the hard disk. What are the advantages and dangers of this 100% in-memory approach? 
 

@@ -1,6 +1,6 @@
 # Weekly Assignments
 
-#### [Week 1](#week-one-content) | [Week 2](#week-two-content) | [Week 3](#week-three-content) | [Week 4](#week-four-content) | [Week 5](#week-five-content)
+#### [Week 1](#week-one-content) | [Week 2](#real-cool-heading) | [Week 3](#week-three-content) | [Week 4](#week-four-content) | [Week 5](#week-five-content)
 
 
 #Week One Content  
@@ -58,6 +58,9 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 - Premature optimization is always bad, but the truth is that some concern about small efficiencies during program development is not premature.
 
 - Design performance into an application from the very start. Design first, code second. 
+
+#Real Cool Heading
+This is a real cool heading with some real cool content.
 
 #Week Two Content 
 to be continued...

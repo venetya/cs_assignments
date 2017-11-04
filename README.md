@@ -39,7 +39,7 @@ A system of rules that governs interaction between entities.
 - Diplomatic - Heads of State do not enter the country without the President's knowledge.
 - Social - It is considered good manners to say "Thank you" when someone offers you a gift.
 
-#week1 
+[#week1] 
 
 ### "Premature Optimization is the Root of All Evil"
 #### Summary:

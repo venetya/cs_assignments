@@ -1,5 +1,8 @@
 # Weekly Assignments
 
+#### [Week 1](https://github.com/venetya/cs_assignments/master/README.md/#week1) | [Week 2](https://github.com/venetya/cs_assignments/master/README.md) | [Week 3](https://github.com/venetya/cs_assignments/master/README.md) | [Week 4](https://github.com/venetya/cs_assignments/master/README.md) | [Week 5](https://github.com/venetya/cs_assignments/master/README.md)
+
+#week1
 ## Week of 10/30/2017
 
 1. Video:  

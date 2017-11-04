@@ -1,6 +1,6 @@
 # Weekly Assignments
 
-#### [Week 1](https://github.com/venetya/cs_assignments/blob/master/README.md#L42) | [Week 2](https://github.com/venetya/cs_assignments/master/README.md) | [Week 3](https://github.com/venetya/cs_assignments/master/README.md) | [Week 4](https://github.com/venetya/cs_assignments/master/README.md) | [Week 5](https://github.com/venetya/cs_assignments/master/README.md)
+#### [Week 1](#week1) | [Week 2](https://github.com/venetya/cs_assignments/master/README.md) | [Week 3](https://github.com/venetya/cs_assignments/master/README.md) | [Week 4](https://github.com/venetya/cs_assignments/master/README.md) | [Week 5](https://github.com/venetya/cs_assignments/master/README.md)
 
 
 ## Week of 10/30/2017
@@ -39,7 +39,7 @@ A system of rules that governs interaction between entities.
 - Diplomatic - Heads of State do not enter the country without the President's knowledge.
 - Social - It is considered good manners to say "Thank you" when someone offers you a gift.
 
-[#week1] 
+(#week1)
 
 ### "Premature Optimization is the Root of All Evil"
 #### Summary:

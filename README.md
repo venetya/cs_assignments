@@ -60,7 +60,7 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 - Design performance into an application from the very start. Design first, code second. 
 
 
-#Week Two
+## Week Two
 ## Week of 11/6/2017 
 
 to be continued...

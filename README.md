@@ -61,6 +61,8 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 
 #Week Two
+## Week of 11/6/2017 
+
 to be continued...
 
 

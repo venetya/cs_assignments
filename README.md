@@ -1,8 +1,9 @@
 # Weekly Assignments
 
-#### [Week 1](#week1) | [Week 2](https://github.com/venetya/cs_assignments/master/README.md) | [Week 3](https://github.com/venetya/cs_assignments/master/README.md) | [Week 4](https://github.com/venetya/cs_assignments/master/README.md) | [Week 5](https://github.com/venetya/cs_assignments/master/README.md)
+#### [Week 1](#week1-content) | [Week 2](#week2-content) | [Week 3](#week3-content) | [Week 4](week4-content) | [Week 5](week5-content)
 
 
+(#week1-content)
 ## Week of 10/30/2017
 
 1. Video:  
@@ -39,8 +40,6 @@ A system of rules that governs interaction between entities.
 - Diplomatic - Heads of State do not enter the country without the President's knowledge.
 - Social - It is considered good manners to say "Thank you" when someone offers you a gift.
 
-(#week1)
-
 ### "Premature Optimization is the Root of All Evil"
 #### Summary:
 The gist of this article is that the statement by Sir Tony Hoare has been frequently taken out of context and, consequently, misunderstood by many software engineers. These individuals have mistakenly interpreted these words to mean that writing efficient code is not important. However, when taken in the proper context, one understands that Hoare was actually saying that being concerned about small efficiencies at too granular a level before you know what the actual performance bottlenecks are is not useful. This does not mean that optimization itself is not useful, rather, it should be part of the design process.
@@ -60,4 +59,17 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 - Design performance into an application from the very start. Design first, code second. 
 
+(#week2-content)
+to be continued...
 
+
+(#week3-content)
+to be continued...
+
+
+(#week4-content)
+to be continued...
+
+
+(#week5-content)
+to be continued...

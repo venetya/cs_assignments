@@ -3,7 +3,7 @@
 #### [Week 1](#week1-content) | [Week 2](#week2-content) | [Week 3](#week3-content) | [Week 4](week4-content) | [Week 5](week5-content)
 
 
-(#week1-content)
+(#week1-content) 
 ## Week of 10/30/2017
 
 1. Video:  
@@ -59,17 +59,17 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 - Design performance into an application from the very start. Design first, code second. 
 
-(#week2-content)
+(#week2-content) 
 to be continued...
 
 
-(#week3-content)
+(#week3-content) 
 to be continued...
 
 
-(#week4-content)
+(#week4-content) 
 to be continued...
 
 
-(#week5-content)
+(#week5-content) 
 to be continued...

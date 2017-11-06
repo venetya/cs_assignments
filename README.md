@@ -73,6 +73,39 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 ### Fun Extra Content:
 [Javascript based DDOS attacks](https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/)
 
+### Assignment:
+1) Consider the following 32 bit sequence
+
+         11000100100000000010000000000000
+
+What is the value of these 32 bits when interpreted as:
+
+* a signed 32bit integer
+* an unsigned 32bit integer
+* A 32 bit IEEE floating point value
+
+2) When you declare a variable in C, storage for that variable is set aside in memory. This storage has a numeric address in memory. This address might look like 0x7ffeef8f3aa8. The "address-of" operator is the ampersand, &. This operator allows you to get the address of a variable. Observe the following program:
+
+``` 
+	#include <stdio.h>
+
+	int main(){
+	    int x = 10;
+	    int y = 15;
+	    printf("The address of x: %p\n", &x);
+	    printf("The address of y: %p\n", &y);
+	    return 0;
+	}
+``` 
+
+The result of running the program on my computer (the values will differ for you!)
+
+	The address of x: 0x7ffeed495aa8
+	The address of y: 0x7ffeed495aa4
+
+Create a program that uses print statements along with the address of operator to either prove or disprove the following claim:
+
+> When a variable is passed to a function, a copy of the variable is passed and not the original variable.
 
 ## Week Three
 to be continued...

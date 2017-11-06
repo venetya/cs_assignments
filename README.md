@@ -62,8 +62,16 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 ## Week Two
 ## Week of 11/6/2017 
+### Video:
+[IEEE floating point representation](https://www.youtube.com/watch?v=8afbTaA-gOQ)
 
-to be continued...
+### Reading:
+[Concerns with choosing data type sizes](https://embeddedgurus.com/stack-overflow/2008/06/efficient-c-tips-1-choosing-the-correct-integer-size/)
+[Functions in C](https://beginnersbook.com/2014/01/c-functions-examples/)
+
+
+### Fun Extra Content:
+[Javascript based DDOS attacks](https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/)
 
 
 ## Week Three

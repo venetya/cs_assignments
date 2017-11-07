@@ -66,7 +66,7 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 [IEEE floating point representation](https://www.youtube.com/watch?v=8afbTaA-gOQ)
 
 ### Reading:
-[Concerns with choosing data type sizes](https://embeddedgurus.com/stack-overflow/2008/06/efficient-c-tips-1-choosing-the-correct-integer-size/)
+[Concerns with choosing data type sizes](https://embeddedgurus.com/stack-overflow/2008/06/efficient-c-tips-1-choosing-the-correct-integer-size/)  
 [Functions in C](https://beginnersbook.com/2014/01/c-functions-examples/)
 
 

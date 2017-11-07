@@ -80,7 +80,7 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 What is the value of these 32 bits when interpreted as:
 
-* a signed 32bit integer (-998236160)? 
+* a signed 32bit integer (-998,236,160)? 
 * an unsigned 32bit integer (3,296,731,136)?
 * A 32 bit IEEE floating point value
 

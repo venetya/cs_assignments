@@ -80,8 +80,8 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 What is the value of these 32 bits when interpreted as:
 
-* a signed 32bit integer
-* an unsigned 32bit integer
+* a signed 32bit integer (-998236160)? 
+* an unsigned 32bit integer (3,296,731,136)?
 * A 32 bit IEEE floating point value
 
 2) When you declare a variable in C, storage for that variable is set aside in memory. This storage has a numeric address in memory. This address might look like 0x7ffeef8f3aa8. The "address-of" operator is the ampersand, &. This operator allows you to get the address of a variable. Observe the following program:

@@ -85,9 +85,9 @@ What is the value of these 32 bits when interpreted as:
 * A 32 bit IEEE floating point value 
 
 #### Answer:
-* for a signed 32-bit integer, the first bit is the signed bit. Since it is 1, this value is between -32,768 to -1. 
+* for a signed 32-bit integer, the first bit is the sign bit. Since it is 1, this value is between -32,768 to -1. 
 * for an unsigned 32-bit integer, this value would be between 0 and 65,535. 
-* for a 32-bit IEEE floating point number, the first bit is the signed bit, followed by the exponent bit, followed by the mantissa (fraction bits). 
+* for a 32-bit IEEE floating point number, the first bit is the sign bit, followed by the exponent bit, followed by the mantissa (fraction bits). 
 
 2) When you declare a variable in C, storage for that variable is set aside in memory. This storage has a numeric address in memory. This address might look like 0x7ffeef8f3aa8. The "address-of" operator is the ampersand, &. This operator allows you to get the address of a variable. Observe the following program:
 

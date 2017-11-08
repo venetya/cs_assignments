@@ -112,6 +112,9 @@ Create a program that uses print statements along with the address of operator t
 
 > When a variable is passed to a function, a copy of the variable is passed and not the original variable.
 
+#### Answer:
+A copy of the variable is passed to a function. The address of the original value was different from that of the value inside the function. (Refer to "value_or_ref" program.)
+
 ## Week Three
 to be continued...
 

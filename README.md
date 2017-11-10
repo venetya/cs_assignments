@@ -67,8 +67,10 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 ### Reading:
 [Concerns with choosing data type sizes](https://embeddedgurus.com/stack-overflow/2008/06/efficient-c-tips-1-choosing-the-correct-integer-size/)  
-[Functions in C](https://beginnersbook.com/2014/01/c-functions-examples/)
-
+[Functions in C](https://beginnersbook.com/2014/01/c-functions-examples/)  
+[Signed Binary Numbers](http://www.electronics-tutorials.ws/binary/signed-binary-numbers.html)  
+[Slide Deck](https://www.slideshare.net/sunilos/c-basics-61019377)  
+[Floating Point Numbers](https://docs.python.org/2/tutorial/floatingpoint.html)  
 
 ### Fun Extra Content:
 [Javascript based DDOS attacks](https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/)

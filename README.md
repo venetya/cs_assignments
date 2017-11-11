@@ -72,10 +72,10 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 - Some compilers allow for different integer sizes (not C99 compliant)
 - There is a difference beween the natural word lenght of the CPU and that of the externam memory bus. In this case, the optimal integer depends on where it is stored. 
 - Most of the embedded world uses unsiged integers, which are much faster and much safer than unsigned integers. 
-- For embedded systems, use 'least' and 'fast' data types for best results:
-* Fixed width unsigned 8 bit integer: uint8_t 
-* Minimum width unsigned 8 bit integer: uint_least8_t
-* Fastest minimum width unsigned 8 bit integer: uint_fast8_t
+- For embedded systems, use 'least' and 'fast' data types for best results: 
+>> Fixed width unsigned 8 bit integer: uint8_t  
+>> Minimum width unsigned 8 bit integer: uint_least8_t 
+>> Fastest minimum width unsigned 8 bit integer: uint_fast8_t 
 
 [Functions in C](https://beginnersbook.com/2014/01/c-functions-examples/)  
 [Signed Binary Numbers](http://www.electronics-tutorials.ws/binary/signed-binary-numbers.html)  

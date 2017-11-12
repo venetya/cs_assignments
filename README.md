@@ -71,7 +71,7 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 - Embedded Systems require more precision in choosing the best type of integer for efficient code.
 - Some compilers allow for different integer sizes (not C99 compliant)
 - There is a difference beween the natural word length of the CPU and that of the external memory bus. In this case, the optimal integer depends on where it is stored. 
-- Most of the embedded world uses unsigned integers, which are much faster and much safer than unsigned integers. :sparkles: 
+- Most of the embedded world uses unsigned integers, which are much faster and much safer than unsigned integers. :sparkles: :sparkles: 
 - For embedded systems, use 'least' and 'fast' data types for best results: 
 >> Fixed width unsigned 8 bit integer: uint8_t  
 >> Minimum width unsigned 8 bit integer: uint_least8_t 

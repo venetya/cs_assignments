@@ -92,12 +92,12 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 What is the value of these 32 bits when interpreted as:
 
-* a signed 32bit integer  
-* an unsigned 32bit integer 
+* a signed 32-bit integer  
+* an unsigned 32-bit integer 
 * A 32 bit IEEE floating point value 
 
 #### Answer:
-* 6,593,462,272 - for a signed 32-bit integer, the first bit is the sign bit. Since it is 1, this value is between -32,768 to -1.  
+* for a signed 32-bit integer, the first bit is the sign bit. Since it is 1, this value is between -32,768 to -1.  
 * for an unsigned 32-bit integer, this value would be between 0 and 65,535. 
 * for a 32-bit IEEE floating point number, the first bit is the sign bit, followed by the exponent bit, followed by the mantissa (fraction bits). 
 

@@ -67,6 +67,8 @@ The gist of this article is that the statement by Sir Tony Hoare has been freque
 
 ### Reading:
 [Concerns with choosing data type sizes](https://embeddedgurus.com/stack-overflow/2008/06/efficient-c-tips-1-choosing-the-correct-integer-size/)  
+[C Data Types](https://www.tutorialspoint.com/cprogramming/c_data_types.htm)  
+
 #### Key Points
 - Embedded Systems require more precision in choosing the best type of integer for efficient code.
 - Some compilers allow for different integer sizes (not C99 compliant)

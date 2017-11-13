@@ -99,7 +99,7 @@ What is the value of these 32 bits when interpreted as:
 * A 32 bit IEEE floating point value 
 
 #### Answer:
-* for a signed 32-bit integer, the first bit is the sign bit. Since it is 1, this value is between -2,147,483,648 and  2,147,483,647.  
+* for a signed 32-bit integer, the first bit is the sign bit. Since it is 1, this value is between -2,147,483,648 and -1.  
 * (3,229,622,272) for an unsigned 32-bit integer, this value would be between 0 and 4,294,967,295. 
 * for a 32-bit IEEE floating point number, the first bit is the sign bit, followed by the exponent bit, followed by the mantissa (fraction bits). 
 

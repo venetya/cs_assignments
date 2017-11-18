@@ -1,12 +1,7 @@
 #include <stdio.h>
 
-void sayJolly(){
-    printf("For he's a jolly good fellow!\n");
-}
-
-void sayNobody(){
-    printf("Which nobody can deny!\n");
-}
+void sayJolly();
+void sayNobody();
 
 int main(){
     sayJolly();
@@ -16,3 +11,10 @@ int main(){
     return 0;
 }
 
+void sayJolly(){
+    printf("For he's a jolly good fellow!\n");
+}
+
+void sayNobody(){
+    printf("Which nobody can deny!\n");
+}

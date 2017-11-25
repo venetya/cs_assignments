@@ -7,6 +7,13 @@ the user to enter values repeatedly and terminate the loop if a value for the ti
 of 0 or less is entered.
 */
 int main() {
-    
+    int min = 0;
+    printf("Enter values in minutes: \n");
+    while(scanf("%d", &min) == 1)
+    {
+        if(min <= 0)
+            break;
+        printf("%d minutes is %d:%02d\n", min, min / MINUTES, min % MINUTES);
+    }
     return 0;
 }

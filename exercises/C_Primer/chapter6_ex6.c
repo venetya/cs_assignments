@@ -20,6 +20,11 @@ int main()
         word[index] = ch;
         index++;
     }
+
+    word[index] = '\0';
+
+    // char word [h|e|l|l|o|_|_|_|_|_] => [h|e|l|l|o|\0|_|_|_|_]
+    //            0 1 2 3 4 5 6 7
     
     size = strlen(word);
 

@@ -20,7 +20,6 @@ programming exercise 3.
 
 int main()
 {
-    const int ROWS = 5;
     const char FIRST = 'A'; //65
     char ach;
     char dch;
@@ -32,18 +31,18 @@ int main()
         int diff = input - FIRST;
         int row, sp;
         // outer loop handles rows
-        for (row = 0; row < ROWS; row++)
+        for (row = 0; row < diff + 1; row++)
         {
             // inner loop 1 handles spaces
-            for(sp = ROWS -1; row < sp; sp--)
+            for(sp = diff; row < sp; sp--)
                 printf(" ");
             // inner loop 2 handles letters (ascending order)    
             for(ach = FIRST; ach <= FIRST + row; ach++)
                 printf("%c", ach);
-            // inner loop 3 handles letters (descending order)    
+            // inner loop 3 handles letters (descending order) 
+            ach--;  // start the inner loop3 minus one char   
             for(dch = ach -1; dch >= FIRST; dch--)
-                //if(dch != ach)
-                    printf("%c", dch);
+                printf("%c", dch);
             printf("\n");
         }
     }

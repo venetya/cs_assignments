@@ -13,17 +13,18 @@ number of times is 1
 
 int main()
 {
-    float num = 1.0;
-    int input;
+    double num1, num2, x;
+    int t_ct;   // term count for each series
+    int limit;
 
-    printf("How many terms?\n");
-    scanf("%d", &input);
-    printf("%1.1f + ", num);
-    for(int i = 1; i<input;i++)
+    printf("How many terms? ");
+    scanf("%d", &limit);
+    for(num1=0, num2=0, x=1, t_ct=1;t_ct <= limit; t_ct++,x *=2.0)
     {
-        printf("%1.1f/%1.1f + ", num, num + i);
+        num1 += 1.0/x;
+        num2 -= 1.0/x;
+        printf("series 1 value = %f when terms = %d.\n", num1, t_ct);
+        printf("series 2 value = %f when terms = %d.\n", num2, t_ct);
     }
-    printf("\n");
-
     return 0;
 }

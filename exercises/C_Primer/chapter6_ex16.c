@@ -20,13 +20,9 @@ int main()
         current += addedint;
         printf("After interest:\t\t$%7.2lf\n", current);
         if(current >= WITHDRAW)
-        {
             current -= WITHDRAW;
-        }
         else
-        {
             current -= current;
-        }
         year++;
         printf("After withdrawal:\t$%7.2lf\n", current);
     }

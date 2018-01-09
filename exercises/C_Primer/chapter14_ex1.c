@@ -1,75 +1,94 @@
 #include <stdio.h>
 #include <string.h>
+/*
+Redo review question 3, but make the argument the spelled-out name of the month
+instead of the month number. (Don’t forget about strcmp().)
+*/
+
 #define MAXLEN 10
 #define YEAR 12
 
 struct month {char name[MAXLEN];
         char abbrev[5];
         int numDays;
+        int number;
 };
 
 struct month year[YEAR] = {
     {
         "January",
         "Jan",
-        31
+        31,
+        1
     },
     {
         "February",
         "Feb",
-        28
+        28,
+        2
     },
     {
         "March",
         "Mar",
-        31
+        31,
+        3
     },
     {
         "April",
         "Apr",
-        30
+        30,
+        4
     },
     {
         "May",
         "May",
-        31
+        31,
+        5
     },
     {
         "June",
         "Jun",
-        30
+        30,
+        6
     },
     {
         "July",
         "Jul",
-        31
+        31,
+        7
     },
     {
         "August",
         "Aug",
-        31
+        31,
+        8
     },
     {
         "September",
         "Sep",
-        30
+        30,
+        9
     },
     {
         "October",
         "Oct",
-        31
+        31,
+        10
     },
     {
         "November",
         "Nov",
-        30
+        30,
+        11
     },
     {
         "December",
         "Dec",
-        31
+        31,
+        12
     }
 };     
+
 
 void GetNumDays(struct month * year);
 
